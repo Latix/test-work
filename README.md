@@ -5,6 +5,6 @@
 - navigate to test.html to view the design
 - Convert public/test.html to react component
 - make a call to /card-details.json to load amount and beneficiary data
-- capture card details and post to https://webhook.site/ee59fa37-27f1-447d-b995-3d3a0c8a9bad
+- capture form details and post to https://webhook.site/1c92d585-7a1a-42bc-8cff-80846e03bf25
 - commit your changes
 - push your changes to the repository
